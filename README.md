@@ -2,7 +2,15 @@
 
 타입스크립트 프로그래밍 연습문제
 
-### TS COMMON COMMANDS
+### TS Config
+
+```
+`./node_modules/.bin/tsc --init`
+```
+
+<br />
+
+### TS Common Commands
 
 ```
 `./node_modules/.bin/tsc --help`
